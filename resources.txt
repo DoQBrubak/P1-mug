@@ -12,4 +12,6 @@ https://plus.google.com/u/2/events/c9svuqo9stjct0glefc1279f3hk
 Background on appropriate use of Bootstrap with CSS came from its documentation:
 http://getbootstrap.com/css/
 
-W3schools.com was referred to for questions of vanilla CSS syntax, specificially regarding borders (http://www.w3schools.com/Css/css_border.asp) and font-families (http://www.w3schools.com/cssref/pr_font_font-family.asp)
+W3schools.com was referred to for questions of vanilla CSS syntax, specificially regarding 
+borders (http://www.w3schools.com/Css/css_border.asp) and 
+font-families (http://www.w3schools.com/cssref/pr_font_font-family.asp)
