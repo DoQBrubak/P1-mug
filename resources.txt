@@ -1,0 +1,15 @@
+Overview:
+This webpage was written for Udacity's Web Development nanodegree Project #1.
+Comparison between the page and the mock-up template is best done at screen width of 1024 pixels.
+
+
+
+Resources used:
+
+The idea to use the HTML5 tags for <header> and <main> came from the Udacity Nanodegree Office Hours 1 hangout:
+https://plus.google.com/u/2/events/c9svuqo9stjct0glefc1279f3hk
+
+Background on appropriate use of Bootstrap with CSS came from its documentation:
+http://getbootstrap.com/css/
+
+W3schools.com was referred to for questions of vanilla CSS syntax, specificially regarding borders (http://www.w3schools.com/Css/css_border.asp) and font-families (http://www.w3schools.com/cssref/pr_font_font-family.asp)
